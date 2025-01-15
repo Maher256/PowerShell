@@ -1,3 +1,4 @@
+#Get the ODMAPI module from Quest Support
 Import-Module .\ODMAPI
 Connect-OdmService
 Select-OdmOrganization -OrganizationId XXXXXXXXXXXXXXXXXXXXXXXX
