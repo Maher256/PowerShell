@@ -1,5 +1,7 @@
 #Get the ODMAPI module from Quest Support
 Import-Module .\ODMAPI
+
+#Use your credentials
 Connect-OdmService
 Select-OdmOrganization -OrganizationId XXXXXXXXXXXXXXXXXXXXXXXX
 Select-OdmProject 'XXXXXXXXXXXXXXXXXXXXXXX-XX'
