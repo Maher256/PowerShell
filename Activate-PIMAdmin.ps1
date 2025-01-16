@@ -23,3 +23,5 @@ function ActivatePIM{
 }
 
 ActivatePIM
+
+# Adding this new line to check Jenkins Alert to Microsoft Teams
